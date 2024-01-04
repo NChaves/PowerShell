@@ -1,4 +1,4 @@
-﻿$ParentPath = "Q:\Completed Downloads\"
+﻿$ParentPath = "Q:\Movies\"
 $Files = Get-ChildItem -Path $ParentPath -Recurse -Include *.nfo
 
 ############################# START 7zip #############################
